@@ -32,7 +32,7 @@
 		<quartz.version>2.3.0</quartz.version>
 		<kafka.version>2.0.0.RELEASE</kafka.version>
 		<dom4j.version>1.6.1</dom4j.version>
-		<mysql.driver.version>5.1.38</mysql.driver.version>
+		<mysql.driver.version>8.0.16</mysql.driver.version>
 		<freemarker.version>2.3.23</freemarker.version>
 		<atomikos.version>4.0.6</atomikos.version>
 		<druid.version>1.1.10</druid.version>
